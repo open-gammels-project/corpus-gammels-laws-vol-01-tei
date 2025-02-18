@@ -1,84 +1,101 @@
-<text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 UNTtite%20(1.3).xsd" xmlns="http://www.tei-c.org/ns/1.0" xml:id="TEI">
-<front>
-<pb n="i" ed="gammelslawsoftexas" /><pb ed="unknown" n="i" />
-<titlePage>
-<docTitle>
-<titlePart type="main"><b>THE L<smcap>AWS OF</smcap> T<smcap>EXAS</smcap> 1822-1897</b></titlePart>
-</docTitle>
-<titlePart type="desc"><i>Austin&#8217;s Colonization Law and Contract; Mexican Constitution of 1824; Federal Colonization Law; Colonization Laws of Coahuila and Texas; Colonization Law of State of Tamau<pc force="weak">-</pc><lb break="no" />lipas; Fredonian Declaration of Independence; Laws and Decrees, with Constitution of Coahuila and Texas; San Felipe Convention; Journals of the Consultation; Proceedings of the General Council; Goliad Declaration of Independence; Journals of the Convention at Washington; Ordinances and Decrees of the Consultation; Declaration of Independence; Constitution of the Repub<pc force="weak">-</pc><lb break="no" />lic; Laws, General and Special, of the Republic; Annexation Reso<pc force="weak">-</pc><lb break="no" />lution of the United States; Ratification of the same by Texas; Constitution of the United States; Constitutions of the Slate of Texas, with all the Laws, General and Special, passed thereunder, including Ordinances, Decrees, and Res<pc force="weak">-</pc><lb break="no" />olutions, with the Constitution of the Confederate States and the Reconstruction Acts of Congress.</i></titlePart>
-<byline>COMPILED AND ARRANGED BY <docAuthor>H. P. N. GAMMEL</docAuthor> OF AUSTIN.</byline>
-<byline>WITH AN INTRODUCTION BY <docAuthor>C. W. RAINES</docAuthor>.</byline>
-<titlePart type="volume"><b>VOLUME I.</b></titlePart>
-<docImprint>AUSTIN: T<smcap>HE</smcap> G<smcap>AMMEL</smcap> B<smcap>OOK</smcap> C<smcap>OMPANY</smcap>.</docImprint>
-<docDate>1898</docDate>
-</titlePage>
-<pb n="ii" ed="gammelslawsoftexas" /><pb ed="unknown" n="ii" />
-<pb n="iii" ed="gammelslawsoftexas" /><pb ed="unknown" n="iii" />
-<div1 type="act">
-<head type="main">COMPILER&#8217;S NOTICE.</head>
-<p>This law publication consists of ten large octavo volumes, in sheep, of 1500 pages each, of which this volume is a specimen. It will be issued at the rate of one volume every sixty days till com<pc force="weak">-</pc><lb break="no" />pleted; for which the subscribers will pay as they receive them. Perhaps this is the largest and costliest work on private ac<pc force="weak">-</pc><lb break="no" />count ever printed in Texas. The collection of the documents cost me much labor and research, in which I was materially aided by Judge C. W. Raines. In perfecting and bringing this work before the public I have spared neither trouble nor expense. It is an exact reprint of the originals or copies, <i>verbatim et literatim</i>; I therefore disclaim all responsibility for the spelling and capitaliza<pc force="weak">-</pc><lb break="no" />tion of words and the punctuation and arrangement of sentences. Conscious of no motive but of being useful to the community, I now submit it to a discriminating public. My hope of remuneration for outlay is in the Texas bar, for whose particular benefit the work was undertaken. But while indispensable to the lawyer, it will also prove a valuable <i>vade mecum</i> to the statesman and the historian.</p>
-<closer>
-<signed>H. P. N. GAMMEL.</signed>
-</closer>
-</div1>
-<pb n="iv" ed="gammelslawsoftexas" /><pb ed="unknown" n="iv" />
-<pb n="v" ed="gammelslawsoftexas" /><pb ed="unknown" n="v" />
-<div1 type="act">
-<head type="main">INTRODUCTION.</head>
-<p>This is a compilation of the laws and political documents of Texas from the beginning of the Mexican Republic to the present year.</p>
-<p>As rights rest upon even obsolete laws, no distinction is here made between laws obsolete and laws in force. From the scope of the publication, its importance can readily be seen.</p>
-<p>The advantage to the legal profession in Texas of having the laws, general and special, of all the sessions, regular and special, of our law-making bodies published in uniform style and conveni<pc force="weak">-</pc><lb break="no" />ent form, as herein presented, can not well be overestimated. And in further enhancement of the work, it may be stated that these published laws are exact copies of the authenticated origi<pc force="weak">-</pc><lb break="no" />nals in the Department of State at Austin.</p>
-<p>Of importance second only to the laws themselves, are the jour<pc force="weak">-</pc><lb break="no" />nals and declarations classed under the general head of political documents. The existence of many of these is not generally known even to intelligent men; while others are just brought again to light, after a long disappearance from public view. These are essentially the connecting links of our legal and political his<pc force="weak">-</pc><lb break="no" />tory, scarcely less useful to lawyers than to statesmen using their law knowledge in connection with political services, like Webster, or as a basis of political philosophy, like Jefferson. Not a hetero<pc force="weak">-</pc><lb break="no" />geneous mass, but a related whole, this compilation is the ethical expression of the period covered, or more plainly speaking, the prevailing idea of right and wrong as applied to the social compact.</p>
-<p>All knowledge of Texas as a self-governing community, apart from these documents, must necessarily be superficial and unsat<pc force="weak">-</pc><lb break="no" />isfactory. In recognition of the principle, all historians of Texas draw more or less from these materials; but generally too little, and that in garbled form.</p>
-<p>(As might naturally be expected from her origin and frequent changes of dominion, Texas, of all the States in the American Union, has the most complex history, legal and political. Passing over the early and long continued struggle between France and Spain for the mastery in Texas, it only concerns us to know that France left us no laws, and that the rich inheritance of the Spanish <pb n="vi" ed="gammelslawsoftexas" /><pb ed="unknown" n="vi" /><fw type="header" place="top">Introduction</fw>Civil law has come down to us through connection with Mexico. But it was not till the coming of the Anglo-American that respect<pc force="weak">-</pc><lb break="no" />ability attached to Texas and heroism to her history. And this compilation begins with the advent of Austin to Texas, during the expiring agonies of Spanish dominion in Mexico.</p>
-<p>First in order among the documents here presented is Austin&#8217;s Spanish colonization grant, ratified by the Constituent Congress of Mexico, and then the still more important work of that august body, &#8220;The Federal Constitution of the United Mexican States,&#8221; more commonly known in Texas as the &#8220;Constitution of 1824,&#8221; and that followed by the Constitution and Laws of Coahuila and Texas, including the colonization law of Tamaulipas and those of Texas.</p>
-<p>As to the documents of the revolution, the Ordinances and De<pc force="weak">-</pc><lb break="no" />crees of the Consultation, including the declaration of the causes for taking up arms against Santa Anna, the establishment of the Provisional Government, with its Journal of Proceedings, and the Ordinances and Decrees of the Convention at Washington, in<pc force="weak">-</pc><lb break="no" />cluding the Declaration of Independence, Constitution, and Jour<pc force="weak">-</pc><lb break="no" />nal of Proceedings, are all given.</p>
-<p>The war of Texas, aided and to be aided by other Mexican States, was for the maintenance of the Constitution of 1824, the rough draft of which appears to have been prepared by S. F. Austin. Abandoned in the contest by her Mexican confederates, Texas finally struck successfully for independence&#8212;a boon not anticipated at the beginning of the struggle. A decade of inde<pc force="weak">-</pc><lb break="no" />pendence was enough for Texas.</p>
-<p>In due order follows:</p>
-<p>The Constitution of 1845, with the annexation resolution and ordinance ratifying the same, bringing Texas into the Union, and Constitution of the United States then become the supreme law of the land.</p>
-<p>The ordinances and decrees of the Secession Convention on withdrawal of Texas from the Union, with the Constitution of the Confederate States succeeding that of the United States as the paramount law, 1861-65.</p>
-<p>The ordinances and decrees of the Union Convention, 1866, on the fall of the Confederacy, with amended Constitution of the State, etc.</p>
-<p>Reconstruction Act of Congress, March, 1867.</p>
-<p>Ordinances and decrees of the Reconstruction Convention, 1868 -69.</p>
-<p>The Constitution of 1876, with amendments and attendant documents.</p>
-<p><pb n="vii" ed="gammelslawsoftexas" /><pb ed="unknown" n="vii" /><fw type="header" place="top">Introduction</fw>And all the laws and resolutions passed under the preceding Constitutions.</p>
-<p>From the foregoing it appears that we have had four organic laws in Texas, to-wit:</p>
-<p>The Mexican Constitution of 1824, in force about one decade; federal, and paramount to the State Constitution of Coahuila and Texas.</p>
-<p>The Constitution of the Republic of Texas, in force about one decade, and central; Texas having abolished the departments and become &#8220;one and indivisible.&#8221;</p>
-<p>The Constitution of the United States, in force about one and one-half decades; federal, and paramount to that of Texas.</p>
-<p>Supplanted by the Constitution of the Confederate States for one-half a decade, and then restored and in force about three decades.</p>
-<p>With this sum total of the laws, and access to the reports of the courts of last resort, one should only have the usual elementary works for the foundation of a good working Texas law library.</p>
-<p>In conclusion, it only remains to add that these volumes are in the nature of original evidence for the student of our jurisprudence, and that nowhere else can it be so well studied as to its origin, character, successive changes, and its present status as a blend<pc force="weak">-</pc><lb break="no" />ed system of the Roman Civil Law and the Common Law of Eng<pc force="weak">-</pc><lb break="no" />land.</p>
-<closer>
-<signed>C. W. RAINES.</signed>
-<dateline>Austin, <date>January 19, 1898</date>.</dateline>
-</closer>
-</div1>
-<pb n="viii" ed="gammelslawsoftexas" /><pb ed="unknown" n="viii" />
-<div1 type="contents">
-<head type="main"><b>CONTENTS.</b></head>
-<p>Page.</p>
-<p>Austin&#8217;s Colonization Laws, 1822.................................... <ref>1</ref></p>
-<p>Constitution of 1824..................................................... <ref>59</ref></p>
-<p>Colonization Law, Federal, 1824.......................................... <ref>95</ref></p>
-<p>Colonization Law, State of Coahuila and Texas, 1825...................... <ref>99</ref></p>
-<p>The Fredonian Declaration of Independence, 1826......................... <ref>107</ref></p>
-<p>Laws and Decrees, State of Coahuila and Texas, 1824..................... <ref>111</ref></p>
-<p>Constitution of the State of Coahuila and Texas, 1827................... <ref>423</ref></p>
-<p>Colonization Law, State of Tamaulipas, 1826............................. <ref>454</ref></p>
-<p>Naturalization Law of the General Congress, 1828........................ <ref>460</ref></p>
-<p>San Felipe Convention, 1832............................................. <ref>475</ref></p>
-<p>Journals of the Consultation, 1835...................................... <ref>505</ref></p>
-<p>Proceedings of the General Council, 1835-36............................. <ref>549</ref></p>
-<p>The Goliad Declaration of Independence, 1835............................ <ref>815</ref></p>
-<p>Journals of the Convention at Washington, 1836.......................... <ref>821</ref></p>
-<p>Ordinances and Decrees of the Consultation, 1836........................ <ref>905</ref></p>
-<p>The Declaration of Independence, 1836.................................. <ref>1063</ref></p>
-<p>The Constitution of the Republic, 1836................................. <ref>1069</ref></p>
-<p>Laws of the Republic, First Congress, regular and called sessions, 1836-37................................................................ <ref>1087</ref></p>
-<p>Laws of the Republic, Second Congress, called and regular sessions, 1837................................................................... <ref>1343</ref></p>
-<p>Laws of the Republic, Second Congress, second session, 1838............ <ref>1471</ref></p>
-</div1>
-</front>
-<body><p>Body content follows in Chapter_1-58.xml</p></body>
+<?xml version="1.0"?>
+<text>
+  <front>
+    <pb n="i" ed="gammelslawsoftexas"/>
+    <pb ed="unknown" n="i"/>
+    <titlePage>
+      <docTitle>
+        <titlePart type="main">
+          <b>THE L<smcap>AWS OF</smcap> T<smcap>EXAS</smcap> 1822-1897</b>
+        </titlePart>
+      </docTitle>
+      <titlePart type="desc">
+        <i>Austin&#x2019;s Colonization Law and Contract; Mexican Constitution of 1824; Federal Colonization Law; Colonization Laws of Coahuila and Texas; Colonization Law of State of Tamau<pc force="weak">-</pc><lb break="no"/>lipas; Fredonian Declaration of Independence; Laws and Decrees, with Constitution of Coahuila and Texas; San Felipe Convention; Journals of the Consultation; Proceedings of the General Council; Goliad Declaration of Independence; Journals of the Convention at Washington; Ordinances and Decrees of the Consultation; Declaration of Independence; Constitution of the Repub<pc force="weak">-</pc><lb break="no"/>lic; Laws, General and Special, of the Republic; Annexation Reso<pc force="weak">-</pc><lb break="no"/>lution of the United States; Ratification of the same by Texas; Constitution of the United States; Constitutions of the Slate of Texas, with all the Laws, General and Special, passed thereunder, including Ordinances, Decrees, and Res<pc force="weak">-</pc><lb break="no"/>olutions, with the Constitution of the Confederate States and the Reconstruction Acts of Congress.</i>
+      </titlePart>
+      <byline>COMPILED AND ARRANGED BY <docAuthor>H. P. N. GAMMEL</docAuthor> OF AUSTIN.</byline>
+      <byline>WITH AN INTRODUCTION BY <docAuthor>C. W. RAINES</docAuthor>.</byline>
+      <titlePart type="volume">
+        <b>VOLUME I.</b>
+      </titlePart>
+      <docImprint>AUSTIN: T<smcap>HE</smcap> G<smcap>AMMEL</smcap> B<smcap>OOK</smcap> C<smcap>OMPANY</smcap>.</docImprint>
+      <docDate>1898</docDate>
+    </titlePage>
+    <pb n="ii" ed="gammelslawsoftexas"/>
+    <pb ed="unknown" n="ii"/>
+    <pb n="iii" ed="gammelslawsoftexas"/>
+    <pb ed="unknown" n="iii"/>
+    <div1 type="act">
+      <head type="main">COMPILER&#x2019;S NOTICE.</head>
+      <p>This law publication consists of ten large octavo volumes, in sheep, of 1500 pages each, of which this volume is a specimen. It will be issued at the rate of one volume every sixty days till com<pc force="weak">-</pc><lb break="no"/>pleted; for which the subscribers will pay as they receive them. Perhaps this is the largest and costliest work on private ac<pc force="weak">-</pc><lb break="no"/>count ever printed in Texas. The collection of the documents cost me much labor and research, in which I was materially aided by Judge C. W. Raines. In perfecting and bringing this work before the public I have spared neither trouble nor expense. It is an exact reprint of the originals or copies, <i>verbatim et literatim</i>; I therefore disclaim all responsibility for the spelling and capitaliza<pc force="weak">-</pc><lb break="no"/>tion of words and the punctuation and arrangement of sentences. Conscious of no motive but of being useful to the community, I now submit it to a discriminating public. My hope of remuneration for outlay is in the Texas bar, for whose particular benefit the work was undertaken. But while indispensable to the lawyer, it will also prove a valuable <i>vade mecum</i> to the statesman and the historian.</p>
+      <closer>
+        <signed>H. P. N. GAMMEL.</signed>
+      </closer>
+    </div1>
+    <pb n="iv" ed="gammelslawsoftexas"/>
+    <pb ed="unknown" n="iv"/>
+    <pb n="v" ed="gammelslawsoftexas"/>
+    <pb ed="unknown" n="v"/>
+    <div1 type="act">
+      <head type="main">INTRODUCTION.</head>
+      <p>This is a compilation of the laws and political documents of Texas from the beginning of the Mexican Republic to the present year.</p>
+      <p>As rights rest upon even obsolete laws, no distinction is here made between laws obsolete and laws in force. From the scope of the publication, its importance can readily be seen.</p>
+      <p>The advantage to the legal profession in Texas of having the laws, general and special, of all the sessions, regular and special, of our law-making bodies published in uniform style and conveni<pc force="weak">-</pc><lb break="no"/>ent form, as herein presented, can not well be overestimated. And in further enhancement of the work, it may be stated that these published laws are exact copies of the authenticated origi<pc force="weak">-</pc><lb break="no"/>nals in the Department of State at Austin.</p>
+      <p>Of importance second only to the laws themselves, are the jour<pc force="weak">-</pc><lb break="no"/>nals and declarations classed under the general head of political documents. The existence of many of these is not generally known even to intelligent men; while others are just brought again to light, after a long disappearance from public view. These are essentially the connecting links of our legal and political his<pc force="weak">-</pc><lb break="no"/>tory, scarcely less useful to lawyers than to statesmen using their law knowledge in connection with political services, like Webster, or as a basis of political philosophy, like Jefferson. Not a hetero<pc force="weak">-</pc><lb break="no"/>geneous mass, but a related whole, this compilation is the ethical expression of the period covered, or more plainly speaking, the prevailing idea of right and wrong as applied to the social compact.</p>
+      <p>All knowledge of Texas as a self-governing community, apart from these documents, must necessarily be superficial and unsat<pc force="weak">-</pc><lb break="no"/>isfactory. In recognition of the principle, all historians of Texas draw more or less from these materials; but generally too little, and that in garbled form.</p>
+      <p>(As might naturally be expected from her origin and frequent changes of dominion, Texas, of all the States in the American Union, has the most complex history, legal and political. Passing over the early and long continued struggle between France and Spain for the mastery in Texas, it only concerns us to know that France left us no laws, and that the rich inheritance of the Spanish <pb n="vi" ed="gammelslawsoftexas"/><pb ed="unknown" n="vi"/><fw type="header" place="top">Introduction</fw>Civil law has come down to us through connection with Mexico. But it was not till the coming of the Anglo-American that respect<pc force="weak">-</pc><lb break="no"/>ability attached to Texas and heroism to her history. And this compilation begins with the advent of Austin to Texas, during the expiring agonies of Spanish dominion in Mexico.</p>
+      <p>First in order among the documents here presented is Austin&#x2019;s Spanish colonization grant, ratified by the Constituent Congress of Mexico, and then the still more important work of that august body, &#x201C;The Federal Constitution of the United Mexican States,&#x201D; more commonly known in Texas as the &#x201C;Constitution of 1824,&#x201D; and that followed by the Constitution and Laws of Coahuila and Texas, including the colonization law of Tamaulipas and those of Texas.</p>
+      <p>As to the documents of the revolution, the Ordinances and De<pc force="weak">-</pc><lb break="no"/>crees of the Consultation, including the declaration of the causes for taking up arms against Santa Anna, the establishment of the Provisional Government, with its Journal of Proceedings, and the Ordinances and Decrees of the Convention at Washington, in<pc force="weak">-</pc><lb break="no"/>cluding the Declaration of Independence, Constitution, and Jour<pc force="weak">-</pc><lb break="no"/>nal of Proceedings, are all given.</p>
+      <p>The war of Texas, aided and to be aided by other Mexican States, was for the maintenance of the Constitution of 1824, the rough draft of which appears to have been prepared by S. F. Austin. Abandoned in the contest by her Mexican confederates, Texas finally struck successfully for independence&#x2014;a boon not anticipated at the beginning of the struggle. A decade of inde<pc force="weak">-</pc><lb break="no"/>pendence was enough for Texas.</p>
+      <p>In due order follows:</p>
+      <p>The Constitution of 1845, with the annexation resolution and ordinance ratifying the same, bringing Texas into the Union, and Constitution of the United States then become the supreme law of the land.</p>
+      <p>The ordinances and decrees of the Secession Convention on withdrawal of Texas from the Union, with the Constitution of the Confederate States succeeding that of the United States as the paramount law, 1861-65.</p>
+      <p>The ordinances and decrees of the Union Convention, 1866, on the fall of the Confederacy, with amended Constitution of the State, etc.</p>
+      <p>Reconstruction Act of Congress, March, 1867.</p>
+      <p>Ordinances and decrees of the Reconstruction Convention, 1868 -69.</p>
+      <p>The Constitution of 1876, with amendments and attendant documents.</p>
+      <p><pb n="vii" ed="gammelslawsoftexas"/><pb ed="unknown" n="vii"/><fw type="header" place="top">Introduction</fw>And all the laws and resolutions passed under the preceding Constitutions.</p>
+      <p>From the foregoing it appears that we have had four organic laws in Texas, to-wit:</p>
+      <p>The Mexican Constitution of 1824, in force about one decade; federal, and paramount to the State Constitution of Coahuila and Texas.</p>
+      <p>The Constitution of the Republic of Texas, in force about one decade, and central; Texas having abolished the departments and become &#x201C;one and indivisible.&#x201D;</p>
+      <p>The Constitution of the United States, in force about one and one-half decades; federal, and paramount to that of Texas.</p>
+      <p>Supplanted by the Constitution of the Confederate States for one-half a decade, and then restored and in force about three decades.</p>
+      <p>With this sum total of the laws, and access to the reports of the courts of last resort, one should only have the usual elementary works for the foundation of a good working Texas law library.</p>
+      <p>In conclusion, it only remains to add that these volumes are in the nature of original evidence for the student of our jurisprudence, and that nowhere else can it be so well studied as to its origin, character, successive changes, and its present status as a blend<pc force="weak">-</pc><lb break="no"/>ed system of the Roman Civil Law and the Common Law of Eng<pc force="weak">-</pc><lb break="no"/>land.</p>
+      <closer>
+        <signed>C. W. RAINES.</signed>
+        <dateline>Austin, <date>January 19, 1898</date>.</dateline>
+      </closer>
+    </div1>
+    <pb n="viii" ed="gammelslawsoftexas"/>
+    <pb ed="unknown" n="viii"/>
+    <div1 type="contents">
+      <head type="main">
+        <b>CONTENTS.</b>
+      </head>
+      <p>Page.</p>
+      <p>Austin&#x2019;s Colonization Laws, 1822.................................... <ref>1</ref></p>
+      <p>Constitution of 1824..................................................... <ref>59</ref></p>
+      <p>Colonization Law, Federal, 1824.......................................... <ref>95</ref></p>
+      <p>Colonization Law, State of Coahuila and Texas, 1825...................... <ref>99</ref></p>
+      <p>The Fredonian Declaration of Independence, 1826......................... <ref>107</ref></p>
+      <p>Laws and Decrees, State of Coahuila and Texas, 1824..................... <ref>111</ref></p>
+      <p>Constitution of the State of Coahuila and Texas, 1827................... <ref>423</ref></p>
+      <p>Colonization Law, State of Tamaulipas, 1826............................. <ref>454</ref></p>
+      <p>Naturalization Law of the General Congress, 1828........................ <ref>460</ref></p>
+      <p>San Felipe Convention, 1832............................................. <ref>475</ref></p>
+      <p>Journals of the Consultation, 1835...................................... <ref>505</ref></p>
+      <p>Proceedings of the General Council, 1835-36............................. <ref>549</ref></p>
+      <p>The Goliad Declaration of Independence, 1835............................ <ref>815</ref></p>
+      <p>Journals of the Convention at Washington, 1836.......................... <ref>821</ref></p>
+      <p>Ordinances and Decrees of the Consultation, 1836........................ <ref>905</ref></p>
+      <p>The Declaration of Independence, 1836.................................. <ref>1063</ref></p>
+      <p>The Constitution of the Republic, 1836................................. <ref>1069</ref></p>
+      <p>Laws of the Republic, First Congress, regular and called sessions, 1836-37................................................................ <ref>1087</ref></p>
+      <p>Laws of the Republic, Second Congress, called and regular sessions, 1837................................................................... <ref>1343</ref></p>
+      <p>Laws of the Republic, Second Congress, second session, 1838............ <ref>1471</ref></p>
+    </div1>
+  </front>
+  <body>
+    <p>Body content follows in Chapter_1-58.xml</p>
+  </body>
 </text>
